@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-a .git directory gets created, this directory is going to be the git repository
+    a .git directory gets created, this directory is going to be the git repository
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    The working directory contains all files, while the staging area contains only the files that are tracked by the git repository.
+I think this is good way to determine which files I need to track, and which files that I don't want to add to the repository
