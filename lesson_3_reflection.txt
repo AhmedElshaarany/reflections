@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  I think this would be really helpful if I am wokring on the repository from multiple places, like for example from my Desktop 
+  computer at work, and also my personal laptop at home
