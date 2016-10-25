@@ -13,3 +13,8 @@ Describe the differences between forks, clones, and branches. When would you use
   clones: They are copies of either remote repositories or local repositories
 
   branches: They are modifications of previous commits which may or may not be added to the master branch, they are usually used for experimentation
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  I imagine it would be beneficial to have a copy locally in case I go offline and need to compare with the remote copy (may be do a diff or something)
